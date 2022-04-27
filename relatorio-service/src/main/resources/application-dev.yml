@@ -1,0 +1,18 @@
+micronaut:
+  application:
+    name: relatorioService
+  server:
+    port: 8082
+
+kafka:
+  bootstap:
+    servers: localhost:9092
+
+mongodb:
+  uri: mongodb://localhost:27017
+
+consul:
+  client:
+    registration:
+      enabled: true
+    default-zone: "localhost:8500"
