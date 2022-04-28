@@ -1,6 +1,6 @@
-# Microserviço loja-service
+# Microserviço relatorio-service
 
-Microserviço responsável pelas operações sobre a entidade Loja
+Microserviço responsável pelas geração dos relatórios
 
 ## 🚀 Começando
 Para rodar o projeto localmente, basta clonar o repositório usando o comando abaixo:
