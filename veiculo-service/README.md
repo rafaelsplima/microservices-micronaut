@@ -1,23 +1,39 @@
-## Micronaut 3.3.4 Documentation
+# Microserviço veiculo-service
 
-- [User Guide](https://docs.micronaut.io/3.3.4/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.3.4/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.3.4/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+Microserviço responsável pelas operações sobre a entidade veículo
 
-## Feature http-client documentation
+## 🚀 Começando
+Para rodar o projeto localmente, basta clonar o repositório usando o comando abaixo:
+```
+git clone https://github.com/rafaelsplima/microservices-micronaut.git
+```
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+### 📋 Pré-requisitos
 
+- IDE: IntelliJ IDEA
+- Java JDK versão 10
+- Maven
+- Docker
 
-## Feature testcontainers documentation
+```
+Docker rodando com imagem consul:1.3.0
+```
 
-- [https://www.testcontainers.org/](https://www.testcontainers.org/)
+## ⚙️ Executando os testes
 
+Em desenvolvimento
 
-## Feature jdbc-hikari documentation
+### 🔩 Analise os testes de ponta a ponta
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+Em desenvolvimento
 
+```
+-
+```
 
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [Micronaut](https://micronaut.io/) - O framework web usado
+* [Maven](https://maven.apache.org/) - Gerente de Dependência
