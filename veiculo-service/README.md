@@ -1,6 +1,6 @@
 # Microserviço veiculo-service
 
-Microserviço responsável pelas operações sobre a entidade veículo
+Microserviço responsável pelas operações sobre a entidade Veículo
 
 ## 🚀 Começando
 Para rodar o projeto localmente, basta clonar o repositório usando o comando abaixo:
@@ -16,7 +16,7 @@ git clone https://github.com/rafaelsplima/microservices-micronaut.git
 - Docker
 
 ```
-Docker rodando com imagem consul:1.3.0
+docker compose up -d
 ```
 
 ## ⚙️ Executando os testes
