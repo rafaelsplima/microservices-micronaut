@@ -36,4 +36,4 @@ Em desenvolvimento
 Mencione as ferramentas que você usou para criar seu projeto
 
 * [Micronaut](https://micronaut.io/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
+* [Maven](https://maven.apache.org/) - Gerenciador de Dependência
