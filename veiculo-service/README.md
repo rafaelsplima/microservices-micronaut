@@ -1,6 +1,6 @@
-# Microserviço veiculo-service
+# Microservice veiculo-service
 
-Microserviço responsável pelas operações sobre a entidade Veículo
+Microservice responsável pelas operações sobre a entidade Veículo
 
 ## 🚀 Começando
 Para rodar o projeto localmente, basta clonar o repositório usando o comando abaixo:

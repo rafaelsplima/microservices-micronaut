@@ -1,6 +1,6 @@
-# Microserviço relatorio-service
+# Microservice relatorio-service
 
-Microserviço responsável pelas geração dos relatórios
+Microservice responsável pela geração dos relatórios
 
 ## 🚀 Começando
 Para rodar o projeto localmente, basta clonar o repositório usando o comando abaixo:
