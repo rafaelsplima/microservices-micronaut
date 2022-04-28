@@ -1,13 +1,33 @@
-## Micronaut 3.4.1 Documentation
+# Microservice relatorio-service
+Microservice responsável pela geração dos relatórios
 
-- [User Guide](https://docs.micronaut.io/3.4.1/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.4.1/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.4.1/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+## 🚀 Começando
+Para rodar o projeto localmente, basta clonar o repositório usando o comando abaixo:
 
-## Feature http-client documentation
+```
+git clone https://github.com/rafaelsplima/microservices-micronaut.git
+```
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+### 📋 Pré-requisitos
+- IDE: IntelliJ IDEA
+- Java JDK versão 10
+- Maven
+- Docker
 
+```
+docker compose up -d
+```
 
+## ⚙️ Executando os testes
+Em desenvolvimento
+
+### 🔩 Analise os testes de ponta a ponta
+Em desenvolvimento
+
+```
+-
+```
+
+## 🛠️ Construído com
+* [Micronaut](https://micronaut.io/) - O framework web usado
+* [Maven](https://maven.apache.org/) - Gerenciador de Dependência
