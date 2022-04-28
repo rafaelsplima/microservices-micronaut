@@ -1,5 +1,4 @@
 # Microservice loja-service
-
 Microservice responsável pelas operações sobre a entidade Loja
 
 ## 🚀 Começando
@@ -9,7 +8,6 @@ git clone https://github.com/rafaelsplima/microservices-micronaut.git
 ```
 
 ### 📋 Pré-requisitos
-
 - IDE: IntelliJ IDEA
 - Java JDK versão 10
 - Maven
@@ -20,11 +18,9 @@ docker compose up -d
 ```
 
 ## ⚙️ Executando os testes
-
 Em desenvolvimento
 
 ### 🔩 Analise os testes de ponta a ponta
-
 Em desenvolvimento
 
 ```
@@ -32,8 +28,5 @@ Em desenvolvimento
 ```
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Micronaut](https://micronaut.io/) - O framework web usado
 * [Maven](https://maven.apache.org/) - Gerenciador de Dependência
